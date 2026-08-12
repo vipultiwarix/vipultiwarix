@@ -1,4 +1,5 @@
 ## Hi there 👋
+i'm a Vipul Tiwari, an  Ai & data science  enthusiast.
 
 <!--
 **vipultiwarix/vipultiwarix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
